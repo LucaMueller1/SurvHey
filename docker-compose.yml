@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  survhey-frontend:
+    build:
+        context: ./SurvHey-FrontEnd
+    ports:
+        - 80:80
+  survhey-backend:
+    build:
+        context: ./SurvHey-BackEnd
+    ports:
+        - 8080:8080
