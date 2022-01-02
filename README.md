@@ -14,8 +14,13 @@ The BackEnd is reachable under "localhost:8080"
 
 ![Image of SurvHey stack in Docker](https://i.ibb.co/R2CFqyT/Screenshot-2021-05-05-at-16-11-30.png)
 
-# Architecture
+# Project Architecture
 ![Architecture Overview](https://user-images.githubusercontent.com/64702286/147890095-d58bd95c-a7fc-48b0-963b-358d3a5c8f15.png)
+
+# In-depth documentation
+
+- [Project Documentation](https://github.com/LucaMueller1/SurvHey/blob/2d00e8a9cc22cc37a6a4c3013610a4b39713350e/project-documentation.pdf) containing sequence diagrams and more
+- [REST-API Documentation as OAS](https://github.com/LucaMueller1/SurvHey/blob/2d00e8a9cc22cc37a6a4c3013610a4b39713350e/SurvHey-API-Documentation.pdf)
 
 # Screenshots
 ### Sample implementation on a customers website
