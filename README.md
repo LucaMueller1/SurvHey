@@ -1,5 +1,6 @@
 # SurvHey Project
 
+Survey Creator featuring a React.js frontend and Spring Boot backend using a H2 embedded database.
 This repo includes both [survhey-frontend](https://github.com/LucaMueller1/SurvHey-FrontEnd) and [survhey-backend](https://github.com/LucaMueller1/SurvHey-BackEnd) as well as the docker-compose.yml
 
 # Run the entire SurvHey Project
@@ -19,7 +20,7 @@ The BackEnd is reachable under "localhost:8080"
 
 # In-depth documentation
 
-- [Project Documentation](https://github.com/LucaMueller1/SurvHey/blob/2d00e8a9cc22cc37a6a4c3013610a4b39713350e/project-documentation.pdf) containing sequence diagrams and more
+- [Project Documentation](https://github.com/LucaMueller1/SurvHey/blob/2d00e8a9cc22cc37a6a4c3013610a4b39713350e/project-documentation.pdf) containing sequence diagrams, ER-diagrams, flow charts and more
 - [REST-API Documentation as OAS](https://github.com/LucaMueller1/SurvHey/blob/2d00e8a9cc22cc37a6a4c3013610a4b39713350e/SurvHey-API-Documentation.pdf)
 
 # Screenshots
