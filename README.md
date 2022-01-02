@@ -1,7 +1,6 @@
-# SurvHey-Delivery
+# SurvHey Project
 
-This repo includes both survhey-frontend and survhey-backend as well as the docker-compose.yml
-The backEnd.tar and frontEnd.tar are the saved docker images as tar archives. They can be loaded with [docker load](https://docs.docker.com/engine/reference/commandline/load/)
+This repo includes both [survhey-frontend](https://github.com/LucaMueller1/SurvHey-FrontEnd) and [survhey-backend](https://github.com/LucaMueller1/SurvHey-BackEnd) as well as the docker-compose.yml
 
 # Run the entire SurvHey Project
 
